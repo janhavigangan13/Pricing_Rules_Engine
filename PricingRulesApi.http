@@ -1,0 +1,6 @@
+@PricingRulesApi_HostAddress = http://localhost:5173
+
+GET {{PricingRulesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
